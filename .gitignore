@@ -10,3 +10,7 @@
 iris_tree.dot
 .ipynb_checkpoints/chapter8-dimensionalityreduction-checkpoint.ipynb
 .ipynb_checkpoints/chapter9-upandrunningwithtensorflow-checkpoint.ipynb
+*.data-00000-of-00001
+*.meta
+*.index
+tmp/checkpoint
