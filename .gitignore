@@ -14,3 +14,4 @@ iris_tree.dot
 *.meta
 *.index
 tmp/checkpoint
+*.KUBASTACH
