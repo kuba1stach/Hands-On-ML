@@ -15,3 +15,4 @@ iris_tree.dot
 *.index
 tmp/checkpoint
 *.KUBASTACH
+.ipynb_checkpoints/chapter10-introductiontoann-checkpoint.ipynb
