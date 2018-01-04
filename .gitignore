@@ -17,3 +17,4 @@ tmp/checkpoint
 *.KUBASTACH
 .ipynb_checkpoints/chapter10-introductiontoann-checkpoint.ipynb
 checkpoint
+.ipynb_checkpoints/chapter11-trainingdeepneuralnets-checkpoint.ipynb
